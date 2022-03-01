@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="10" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6974" started-at="2022-03-02T01:12:13 IST" finished-at="2022-03-02T01:12:20 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6974" started-at="2022-03-02T01:12:13 IST" finished-at="2022-03-02T01:12:20 IST">
+      <class name="com.requests.HttpMethodsTestScript.Http_Get_Request_Test">
+        <test-method status="PASS" signature="http_Get_Request_Test()[pri:0, instance:com.requests.HttpMethodsTestScript.Http_Get_Request_Test@5bb21b69]" name="http_Get_Request_Test" duration-ms="331" started-at="2022-03-02T01:12:20 IST" finished-at="2022-03-02T01:12:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- http_Get_Request_Test -->
+      </class> <!-- com.requests.HttpMethodsTestScript.Http_Get_Request_Test -->
+      <class name="com.requests.HttpMethodsTestScript.Http_Put_Request_Test">
+        <test-method status="PASS" signature="http_Post_Request_Test()[pri:0, instance:com.requests.HttpMethodsTestScript.Http_Put_Request_Test@6b9651f3]" name="http_Post_Request_Test" duration-ms="184" started-at="2022-03-02T01:12:20 IST" finished-at="2022-03-02T01:12:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- http_Post_Request_Test -->
+      </class> <!-- com.requests.HttpMethodsTestScript.Http_Put_Request_Test -->
+      <class name="com.requests.HttpMethodsTestScript.Http_Delete_Request_Test">
+        <test-method status="PASS" signature="http_Delete_Request_Test()[pri:0, instance:com.requests.HttpMethodsTestScript.Http_Delete_Request_Test@38bc8ab5]" name="http_Delete_Request_Test" duration-ms="160" started-at="2022-03-02T01:12:20 IST" finished-at="2022-03-02T01:12:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- http_Delete_Request_Test -->
+      </class> <!-- com.requests.HttpMethodsTestScript.Http_Delete_Request_Test -->
+      <class name="com.requests.HttpMethodsTestScript.Http_Post_Request_Test">
+        <test-method status="PASS" signature="dataBaseConnection()[pri:0, instance:com.requests.HttpMethodsTestScript.Http_Post_Request_Test@1d8d30f7]" name="dataBaseConnection" is-config="true" duration-ms="114" started-at="2022-03-02T01:12:13 IST" finished-at="2022-03-02T01:12:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataBaseConnection -->
+        <test-method status="PASS" signature="http_Post_Request_Test()[pri:0, instance:com.requests.HttpMethodsTestScript.Http_Post_Request_Test@1d8d30f7]" name="http_Post_Request_Test" duration-ms="6148" started-at="2022-03-02T01:12:13 IST" finished-at="2022-03-02T01:12:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- http_Post_Request_Test -->
+        <test-method status="PASS" signature="dataBaseConnectionClosed()[pri:0, instance:com.requests.HttpMethodsTestScript.Http_Post_Request_Test@1d8d30f7]" name="dataBaseConnectionClosed" is-config="true" duration-ms="1" started-at="2022-03-02T01:12:20 IST" finished-at="2022-03-02T01:12:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataBaseConnectionClosed -->
+      </class> <!-- com.requests.HttpMethodsTestScript.Http_Post_Request_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
